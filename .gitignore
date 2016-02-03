@@ -1,3 +1,10 @@
+# vs
+bin
+*.suo
+obj
+*.pdb
+*.cache
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
