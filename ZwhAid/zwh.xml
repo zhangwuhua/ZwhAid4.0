@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ZWH>
+  <SERVER>
+    <IP>172.26.215.38</IP>
+    <PORT>18180</PORT>
+  </SERVER>
+  <DB>
+    <BASEDB>server=.;database=ZWH;User ID=ZWH;Password=1234QWER!@#$;</BASEDB>
+  </DB>
+  <DBTYPE>
+    <BASEDB>1</BASEDB>
+  </DBTYPE>
+  <MEMORY>
+    <ZWHBASEDB>server=.;database=ZWH;User ID=ZWH;Password=1234QWER!@#$;</ZWHBASEDB>
+    <ZWHBASEDBTYPE>1</ZWHBASEDBTYPE>
+  </MEMORY>
+</ZWH>
